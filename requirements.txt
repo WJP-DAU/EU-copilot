@@ -1,11 +1,11 @@
 matplotlib>=3.10.2
 numpy>=1.26.4
-pandas==2.2.2
+pandas>=2.2.2
 streamlit>=1.40.0
 openpyxl==3.1.2
 pyreadstat>=1.2.5
 plotly>=5.21.0
-geopandas==1.0.1
+geopandas>=1.0.0
 pyogrio
 statsmodels>=0.14.2
 pyxlsb==1.0.10
